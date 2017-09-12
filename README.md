@@ -1,2 +1,2 @@
-# conquest-website
+# Conquest-Website
 Conquest Website Codebase
